@@ -28,7 +28,7 @@ app.post('/', (req, res) => {
           secure: false,
           auth: {
             user: 'dbnfkbq222@gmail.com',
-            pass: 'KaSPiaN12'
+            pass: ''
           }
         });
 
